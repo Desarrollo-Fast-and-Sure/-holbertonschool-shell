@@ -1,2 +1,2 @@
 #!/bin/bash
-ls > output.txt /tmp/iamafile"
+file_type=$(file /tmp/iamafile)
