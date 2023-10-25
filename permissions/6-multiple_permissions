@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -R 0114 hello
+chown user{:grup} hello
