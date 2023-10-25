@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp hello escuela
+sudo group -n hello escuela
