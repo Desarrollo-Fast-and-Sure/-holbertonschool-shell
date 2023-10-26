@@ -1,2 +1,2 @@
 #!/bin/bash
-file "Hello, World" l -n 2
+file "Hello, World" 
